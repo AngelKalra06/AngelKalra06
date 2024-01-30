@@ -4,7 +4,7 @@
   
 
 
-- ⚡ Fun fact: I am a first year student and I'm currently pursuing BCA.
+  - I am a first year student and I'm currently pursuing BCA.
 
 <!---
 AngelKalra06/AngelKalra06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
