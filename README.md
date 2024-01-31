@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angel Kaur Kalra
   
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently learning C and web based programming
   
 
 
